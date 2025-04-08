@@ -1,2 +1,3 @@
-console.log("who are you");
-console.log(12334536);
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/lms
+JWT_SECRET=supersecretkey
